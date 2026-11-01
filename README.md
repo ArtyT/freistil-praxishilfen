@@ -2,7 +2,7 @@
 
 Vier originale CSV-Arbeitshilfen von Freistil Consulting / FreiStil ApS. Sie helfen euch, einen Ablauf einzugrenzen, offene Entscheidungen festzuhalten und eine Vorführung oder einen Test vorzubereiten. Wählt die Tabelle nach der Frage, die ihr gerade klären müsst.
 
-Alle vorgegebenen Beispiele, Mengen, Zeiten und Prüffälle sind synthetisch. Sie beschreiben keine Kundenarbeit und keine gemessenen Projektergebnisse. Die Kundenonboarding-Checkliste ist eine leere Vorlage mit vorgeschlagenen Anforderungszeilen. Keine Tabelle belegt, dass ein bestimmtes Programm oder eine Freistil-Anbindung die beschriebenen Schritte bereits beherrscht.
+Alle in den CSV-Dateien vorgegebenen Beispiele, Mengen, Zeiten und Prüffälle sind synthetisch. Sie beschreiben keine Kundenarbeit und keine gemessenen Projektergebnisse. Die Kundenonboarding-Checkliste ist eine leere Vorlage mit vorgeschlagenen Anforderungszeilen. Keine Tabelle belegt, dass ein bestimmtes Programm oder eine Freistil-Anbindung die beschriebenen Schritte bereits beherrscht.
 
 ## Die passende Tabelle wählen
 
@@ -23,8 +23,16 @@ Haltet anschließend die tatsächliche Beobachtung, den zugehörigen Nachweis, d
 
 Die Leitfäden erläutern diese Unterschiede ausführlicher. Die CSV-Dateien hier sind unveränderte Kopien der ursprünglichen Freistil-Arbeitshilfen. Sie dienen der betrieblichen Vorbereitung; die fachlichen Anforderungen einer Rechnungsübergabe klärt ihr mit eurer Buchhaltung oder eurem Steuerbüro.
 
+## Aus Roberts Projektarbeit: CRM-Historie für Auswertungen
+
+Eine frühere Projektaufgabe war, HubSpot-Daten einschließlich ihrer Historie für Attributionsanalysen bereitzustellen. Laut seinen dokumentierten Projektangaben übernahm Robert die technische Konzeption und rund 80 Prozent der Python-Programmierung. Die Verarbeitung lief asynchron und parallel auf AWS. Historische Daten aus dieser Pipeline flossen später in den Vergleich verschiedener Attributionsmodelle in Tableau ein.
+
+Für eure Vorbereitung: Klärt, ob eure Auswertung den heutigen Datenstand oder frühere Zustände braucht. Haltet im Prüffall fest, auf welchen Zeitpunkt sich das erwartete Ergebnis bezieht.
+
+Dieser anonymisierte Rückblick beschreibt frühere Projektarbeit. Die CSV-Arbeitshilfen oben enthalten weiterhin ausschließlich synthetische Beispiele beziehungsweise leere Vorlagen.
+
 ## Einen offenen Ablauf besprechen
 
 Freistil berät und setzt individuelle Lösungen passend zu euren Abläufen und vorhandenen Programmen um. Beschreibt zunächst die beteiligten Programme und einen offenen Prüffall. Auf [Roberts öffentlichem Profil](https://www.freistil-consulting.de/de/robert) findet ihr seinen Hintergrund und den Kontaktweg.
 
-English orientation: These German worksheets help scope office workflows and record agreed test expectations and actual observations. All supplied examples are synthetic; the onboarding sheet starts blank. The linked German guides explain each worksheet.
+English orientation: These German worksheets help scope office workflows and record agreed test expectations and actual observations. All examples supplied in the worksheets are synthetic; the onboarding sheet starts blank. The linked German guides explain each worksheet.
