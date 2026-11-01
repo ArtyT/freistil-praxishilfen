@@ -1,6 +1,6 @@
 # HubSpot-Kontaktwerte zum Stichtag prüfen
 
-Um einen früheren Kontaktwert zu belegen, braucht ihr Datensatz, Eigenschaft, Stichtag und eine Quelle, die den betreffenden Zeitraum abdeckt. Mit diesem [CSV-Arbeitsblatt](../csv/hubspot-stichtag-pruefen.csv) könnt ihr diese Angaben und die vereinbarte Prüferwartung festhalten.
+Um einen früheren Kontaktwert zu belegen, braucht ihr Datensatz, Eigenschaft, Stichtag und eine Quelle, die den betreffenden Zeitraum abdeckt. Mit diesem [CSV-Arbeitsblatt](https://github.com/ArtyT/freistil-praxishilfen/raw/refs/heads/main/csv/hubspot-stichtag-pruefen.csv) könnt ihr diese Angaben und die vereinbarte Prüferwartung festhalten.
 
 Das Blatt enthält acht unabhängige synthetische Prüffälle und zwei freie Zeilen. Die Kontakt-IDs, das Feld `test_status`, Werte und Zeiten sind erfunden. Ihr könnt die Übung ohne HubSpot-Zugang durchgehen. Beobachtungs-, Nachweis- und Entscheidungsfelder beginnen leer.
 
@@ -28,7 +28,7 @@ Für einen einzelnen Kontakt kann die [Eigenschaftshistorie in der Datensatzansi
 
 ## Die Prüffälle durcharbeiten
 
-Öffnet eine Arbeitskopie als UTF-8 mit Semikolon als Trennzeichen. Importiert Zeitangaben als Text, damit Offset und Schreibweise erhalten bleiben. Das Arbeitsblatt ist für die manuelle Prüfung gedacht.
+Öffnet eine Arbeitskopie als UTF-8 mit Komma als Trennzeichen. Importiert Zeitangaben als Text, damit Offset und Schreibweise erhalten bleiben. Das Arbeitsblatt ist für die manuelle Prüfung gedacht.
 
 Die Fälle unterscheiden einen belegten Zwischenwert, eine Änderung genau am Stichtag, fehlende frühere Historie, einen aktuellen Snapshot, einen fehlenden Exportdatensatz, zwei lokale Uhrzeiten mit unterschiedlichen Offsets, widersprüchliche gleichzeitige Änderungen und begrenzte Historienabdeckung. Eindeutige Sollwerte gelten nur für die ausdrücklich als vollständig beschriebenen Beispielintervalle. Bei unzureichenden oder widersprüchlichen Belegen bleibt das Ergebnis offen.
 
