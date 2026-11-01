@@ -14,6 +14,10 @@ Alle in den CSV-Dateien vorgegebenen Beispiele, Mengen, Zeiten und Prüffälle s
 | Welche Unterlagen und Entscheidungen fehlen vor dem Start eines Kundenauftrags? | [Kundenonboarding-Checkliste](csv/kundenonboarding-checkliste.csv) | [Auftragsstart vorbereiten](https://www.freistil-consulting.de/de/anwendungen/auftragsstart-vorbereiten#kundenonboarding-checkliste) · [Original-CSV](https://www.freistil-consulting.de/ressourcen/kundenonboarding-checkliste.csv) |
 | Welcher Wert einer HubSpot-Kontakteigenschaft ist zu einem früheren Stichtag belegt? | [CRM-Stichtag prüfen: CSV herunterladen](https://github.com/ArtyT/freistil-praxishilfen/raw/refs/heads/main/csv/hubspot-stichtag-pruefen.csv) | [Synthetische Fälle, Quellenabdeckung und Zeitzonen prüfen](guides/hubspot-stichtag-pruefen.md) |
 
+## Zwei CSV-Ausgaben über IDs vergleichen
+
+Gleiche Zeilenzahlen können fehlende oder wiederholte IDs verdecken. Im [CSV-ID-Vergleich](https://www.freistil-consulting.de/de/ressourcen/berichte-abgleichen#csv-vergleich) könnt ihr zwei eigene Dateien oder eingefügten Text ohne Anmeldung lokal im Browser prüfen; die Inhalte werden weder hochgeladen noch dauerhaft gespeichert. Die [Kurzanleitung](guides/csv-id-vergleich.md) zeigt Eingabe, Vergleichsgrundlage und Ergebnisgrenzen anhand eines synthetischen Beispiels. Der Abgleich prüft ausschließlich IDs, keine Beträge oder fachliche Berichtsrichtigkeit.
+
 ## Öffnen und prüfen
 
 Ladet die passende CSV herunter und öffnet eine Arbeitskopie in eurem Tabellenprogramm. Wählt beim Import UTF-8. Die vier Dateien mit Website-Originaldownload verwenden Semikolon als Trennzeichen, das neue CRM-Stichtagsblatt verwendet Komma. Die Dateien enthalten keine Formeln, programmierten Auswahlfelder oder automatischen Verbindungen. In der Workflow-Auswahl sind Beispielrechnungen vorbereitet; für eigene Werte müsst ihr die Rechnungen selbst aktualisieren. Bewertete Arbeitszeit ist keine nachgewiesene Einsparung.
