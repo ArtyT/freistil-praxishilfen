@@ -1,2 +1,30 @@
-# freistil-praxishilfen
-CSV-Prüftabellen von Freistil Consulting: Workflows auswählen, Anfragen zuordnen, Rechnungen übergeben und Kundenstarts prüfen. Synthetische Beispiele mit Erläuterungen auf freistil-consulting.de.
+# Praxishilfen für Büroabläufe
+
+Vier originale CSV-Arbeitshilfen von Freistil Consulting / FreiStil ApS. Sie helfen euch, einen Ablauf einzugrenzen, offene Entscheidungen festzuhalten und eine Vorführung oder einen Test vorzubereiten. Wählt die Tabelle nach der Frage, die ihr gerade klären müsst.
+
+Alle vorgegebenen Beispiele, Mengen, Zeiten und Prüffälle sind synthetisch. Sie beschreiben keine Kundenarbeit und keine gemessenen Projektergebnisse. Die Kundenonboarding-Checkliste ist eine leere Vorlage mit vorgeschlagenen Anforderungszeilen. Keine Tabelle belegt, dass ein bestimmtes Programm oder eine Freistil-Anbindung die beschriebenen Schritte bereits beherrscht.
+
+## Die passende Tabelle wählen
+
+| Eure Frage | CSV | Leitfaden und ursprünglicher Download |
+| --- | --- | --- |
+| Welchen wiederkehrenden Ablauf sollten wir zuerst vereinfachen? | [Workflow-Auswahl](csv/workflow-auswahl.csv) | [Aufwand, Ausnahmen und Nutzen abwägen](https://www.freistil-consulting.de/de/ressourcen/workflow-auswahl) · [Original-CSV](https://www.freistil-consulting.de/ressourcen/workflow-auswahl.csv) |
+| Gehört eine Nachricht zu einer bestehenden Anfrage oder beginnt ein neuer Vorgang? | [Anfragezuordnung prüfen](csv/anfragen-pruefen.csv) | [Zuordnung und Wiederholungen prüfen](https://www.freistil-consulting.de/de/anwendungen/anfragen-zuordnen#anfragen-pruefen) · [Original-CSV](https://www.freistil-consulting.de/ressourcen/anfragen-pruefen.csv) |
+| Ist eine Lieferantenrechnung am vereinbarten Ziel angekommen? | [Rechnungsübergabe prüfen](csv/rechnungsuebergabe-pruefen.csv) | [Vorbereitung, Freigabe und Übergabe unterscheiden](https://www.freistil-consulting.de/de/anwendungen/lieferantenrechnungen-vorbereiten) · [Original-CSV](https://www.freistil-consulting.de/ressourcen/rechnungsuebergabe-pruefen.csv) |
+| Welche Unterlagen und Entscheidungen fehlen vor dem Start eines Kundenauftrags? | [Kundenonboarding-Checkliste](csv/kundenonboarding-checkliste.csv) | [Auftragsstart vorbereiten](https://www.freistil-consulting.de/de/anwendungen/auftragsstart-vorbereiten#kundenonboarding-checkliste) · [Original-CSV](https://www.freistil-consulting.de/ressourcen/kundenonboarding-checkliste.csv) |
+
+## Öffnen und prüfen
+
+Ladet die passende CSV herunter und öffnet eine Arbeitskopie in eurem Tabellenprogramm. Wählt beim Import UTF-8 und Semikolon als Trennzeichen. Die Dateien enthalten keine Formeln, programmierten Auswahlfelder oder automatischen Verbindungen. In der Workflow-Auswahl sind Beispielrechnungen vorbereitet; für eigene Werte müsst ihr die Rechnungen selbst aktualisieren. Bewertete Arbeitszeit ist keine nachgewiesene Einsparung.
+
+Grenzt vor einer Prüfung Anfang, Ende und beteiligte Programme ein. Stimmt die vorgeschlagenen Solltexte mit den verantwortlichen Personen ab. Nutzt für Anfrage- und Rechnungstests ausschließlich erfundene Daten in einer getrennten Testumgebung oder einer Vorführung mit simuliertem Ziel. Es dürfen keine echten Nachrichten, Buchungen, Zahlungen oder Übergaben ans Steuerbüro entstehen. Tragt keine Zugangsdaten oder vertraulichen Unterlagen ein und veröffentlicht keine ausgefüllten Betriebsdaten in diesem Repository.
+
+Haltet anschließend die tatsächliche Beobachtung, den zugehörigen Nachweis, die Entscheidung und den nächsten Schritt mit Zuständigkeit fest. Leere Ergebnisfelder bedeuten nicht „bestanden“. Bei unbekanntem Sendeausgang prüft ihr zuerst das Ziel, bevor ihr erneut sendet. In der Onboarding-Tabelle ist die Gesamtentscheidung zum Auftragsstart von der Prüfung einzelner Anforderungen getrennt.
+
+Die Leitfäden erläutern diese Unterschiede ausführlicher. Die CSV-Dateien hier sind unveränderte Kopien der ursprünglichen Freistil-Arbeitshilfen. Sie dienen der betrieblichen Vorbereitung; die fachlichen Anforderungen einer Rechnungsübergabe klärt ihr mit eurer Buchhaltung oder eurem Steuerbüro.
+
+## Einen offenen Ablauf besprechen
+
+Freistil berät und setzt individuelle Lösungen passend zu euren Abläufen und vorhandenen Programmen um. Beschreibt zunächst die beteiligten Programme und einen offenen Prüffall. Auf [Roberts öffentlichem Profil](https://www.freistil-consulting.de/de/robert) findet ihr seinen Hintergrund und den Kontaktweg.
+
+English orientation: These German worksheets help scope office workflows and record agreed test expectations and actual observations. All supplied examples are synthetic; the onboarding sheet starts blank. The linked German guides explain each worksheet.
